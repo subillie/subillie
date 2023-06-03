@@ -28,4 +28,4 @@
 
 <p align="left">
 <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abyo">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clifygkwl001608mgx4lj9rui/stats?cursusId=21&coalitionId=85" alt="subinlee's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img height="150em" src="https://badge42.vercel.app/api/v2/clifygkwl001608mgx4lj9rui/stats?cursusId=21&coalitionId=85" alt="subinlee's 42 stats" /></a>
