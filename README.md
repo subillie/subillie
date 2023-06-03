@@ -15,7 +15,6 @@
 ## 📈Github stat
 
 <p align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subillie&layout=compact&theme=dracula">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=subillie&show_icons=true&theme=dracula&count_private=true">
 </p>
 
