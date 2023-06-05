@@ -1,12 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=subillie's%20Github%20Profile&fontSize=50&fontColor=ffffff"
 </p>
-
-## 포부
-  
-- 구글에 들어가고 싶습니다.
-- 제 2의 백준이 되겠습니다.
-- 나중에 창업해서 여기가 성지가 될겁니다.
   
 ## 🛠️Tech Stack
 
