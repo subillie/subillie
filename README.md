@@ -7,7 +7,7 @@
 - 구글에 들어가고 싶습니다.
 - 나중에 창업해서 여기가 성지가 될겁니다.
   
-## 🛠️Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
@@ -18,13 +18,13 @@
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=badge&logo=unity&logoColor=white">
 </p>
 
-## 📈Github stat
+## 📈 Github stat
 
 <p align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=subillie&show_icons=true&theme=dracula&count_private=true">
 </p>
 
-## 📌Etc
+## 📌 Etc
 
 <p align="left">
 <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abyo">
