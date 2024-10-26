@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=badge&logo=unity&logoColor=white">
 </p>
 
 ## 📈 Github stat
