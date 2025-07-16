@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=badge&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=badge&logo=postgresql&logoColor=white">
 </p>
 
 #### Tools
