@@ -24,7 +24,7 @@
 #### Tools
 - editor
 <p align="left">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=badge&logo=visual-studio-code&logoColor=22ABF3">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32?style=badge&logo=visual-studio-code&logoColor=22ABF3">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=badge&logo=pycharm&logoColor=white">
   <img src="https://img.shields.io/badge/Vim-019733?style=badge&logo=vim&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white">
@@ -61,5 +61,5 @@
 
 ## 📌 About Me
 ##### [ 2020.03. - 2025.08. ] Sogang University
-##### [ 2022.11. - 2024.08. ] ![42 Seoul](https://img.shields.io/badge/Seoul-000000?&style=badge&logo=42&logoColor=white)
-##### [ 2025.07. - 2026.06. ] ![Samsung](https://img.shields.io/badge/SSAFY-1428A0?&style=badge&logo=samsung&logoColor=white)
+##### [ 2022.11. - 2024.08. ] ![42 Seoul](https://img.shields.io/badge/Seoul-000000?&style=for-the-badge&logo=42&logoColor=white)
+##### [ 2025.07. - 2026.06. ] ![Samsung](https://img.shields.io/badge/SSAFY-1428A0?&style=for-the-badge&logo=samsung&logoColor=white)
