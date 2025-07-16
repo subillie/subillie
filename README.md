@@ -41,6 +41,6 @@
 </p>
 
 ## 📌 About Me
-##### [ 2020.03. - 2025.08. ] 서강대학교
+##### [ 2020.03. - 2025.08. ] Sogang University
 ##### [ 2022.11. - 2024.08. ] ![42 Seoul](https://img.shields.io/badge/Seoul-000000?&style=badge&logo=42&logoColor=white)
 ##### [ 2025.07. - 2026.06. ] ![Samsung](https://img.shields.io/badge/SSAFY-1428A0?&style=badge&logo=samsung&logoColor=white)
