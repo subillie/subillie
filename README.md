@@ -16,8 +16,8 @@
 
 - Intermediate
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Fsharp-378BBA?style=badge&logo=fsharp&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=badge&logo=opengl&logoColor=black">
 </p>
