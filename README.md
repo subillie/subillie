@@ -63,3 +63,5 @@
 ##### [ 2020.03. - 2025.08. ] Sogang University
 ##### [ 2022.11. - 2024.08. ] ![42 Seoul](https://img.shields.io/badge/Seoul-000000?&style=for-the-badge&logo=42&logoColor=white)
 ##### [ 2025.07. - 2026.06. ] ![Samsung](https://img.shields.io/badge/SSAFY-1428A0?&style=for-the-badge&logo=samsung&logoColor=white)
+📮 **Contact** 📮  
+![gmail](https://img.shields.io/badge/ddubi701@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
