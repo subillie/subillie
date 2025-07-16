@@ -4,7 +4,7 @@
 
 ## 🦾 Stack
 #### Tech
-- advanced
+- Advanced
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white">
@@ -14,15 +14,16 @@
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=badge&logo=docker&logoColor=white">
 </p>  
 
-- intermediate
+- Intermediate
 <p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Fsharp-378BBA?style=badge&logo=fsharp&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=badge&logo=opengl&logoColor=black">
 </p>
 
 #### Tools
-- editor
+- Editor
 <p align="left">
   <img src="https://img.shields.io/badge/VSCode-2C2C32?style=badge&logo=visual-studio-code&logoColor=22ABF3">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=badge&logo=pycharm&logoColor=white">
@@ -31,18 +32,17 @@
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=badge&logo=google-colab&logoColor=white">
 </p>
 
-- develop
+- Develop
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=badge&logo=swagger&logoColor=black">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ngrok-1F1E37?style=badge&logo=ngrok&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=badge&logo=firebase&logoColor=white">
 </p>
 
-- communication
+- Communication
 <p align="left">
   <img src="https://img.shields.io/badge/Markdown-000000?style=badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-F3F3F3?style=badge&logo=notion&logoColor=black">
