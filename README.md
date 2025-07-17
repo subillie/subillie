@@ -4,7 +4,7 @@
 
 # 🦾 Stack
 ### Tech
-[---Advanced--]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Advanced ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white">
@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=badge&logo=docker&logoColor=white">
-</p>  
+</p>&nbsp  
 
-[-Intermediate-]
+&nbsp;&nbsp;&nbsp;[ Intermediate ]&nbsp;&nbsp;&nbsp;
 <a align="left">
   <img src="https://img.shields.io/badge/Fsharp-378BBA?style=badge&logo=fsharp&logoColor=black">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=black">
@@ -23,7 +23,7 @@
 </p>
 
 ### Tools
-[-------Editor------]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ Editor ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a align="left">
   <img src="https://img.shields.io/badge/VSCode-2C2C32?style=badge&logo=visual-studio-code&logoColor=22ABF3">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=badge&logo=pycharm&logoColor=white">
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=badge&logo=google-colab&logoColor=white">
 </p>
 
-[-----Develop-----]
+&nbsp;&nbsp;[ Development ]&nbsp;&nbsp;
 <a align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=badge&logo=github&logoColor=white">
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=badge&logo=firebase&logoColor=white">
 </p>
 
-[-Communication-]
+[ Communication ]
 <a align="left">
   <img src="https://img.shields.io/badge/Markdown-000000?style=badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-F3F3F3?style=badge&logo=notion&logoColor=black">
