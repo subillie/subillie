@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=badge&logo=docker&logoColor=white">
-</p>&nbsp  
+</p>
 
 &nbsp;&nbsp;&nbsp;[ Intermediate ]&nbsp;&nbsp;&nbsp;
 <a align="left">
