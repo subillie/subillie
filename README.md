@@ -72,6 +72,37 @@
 
 <br>
 
+### ✨ Featured Projects
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width="150px">
+        <a href="https://github.com/TeamMothee/Backend.git"><b>캡스톤디자인</b></a>
+      </td>
+      <td>
+        시각장애인을 위한 안전 경로 추천 및 보행 상황 디텍팅 서비스의 백엔드 서버
+      </td>
+      <td width="220px">
+        <code>Django</code> <code>DRF</code> <code>PostgreSQL</code> <code>AWS</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150px">
+        <a href="https://github.com/Retro-pong/Transcendence.git"><b>ft_transcendence</b></a>
+      </td>
+      <td>
+        실시간 Pong 게임 웹 페이지의 백엔드 시스템
+      </td>
+      <td width="220px">
+        <code>Django</code> <code>DRF</code> <code>Docker</code> <code>WebSocket</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
 ### 🎓 Education & Activities
 
 * **Sogang University** (2020.03 ~ 2025.08)
