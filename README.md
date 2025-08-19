@@ -4,15 +4,6 @@
 
 <div align="center">
 
-### 👋 About Me
-<p>
-  심리, 개발 그리고 클라이밍을 좋아하는 개발자 이수빈입니다.
-</p>
-
-</div>
-
-<br>
-
 ### 🛠️ Tech Stack
 
 <table>
@@ -53,19 +44,19 @@
       <img src="https://img.shields.io/badge/Vim-019733?style=badge&logo=vim&logoColor=white">
       <img src="https://img.shields.io/badge/VSCode-2C2C32?style=badge&logo=visual-studio-code&logoColor=22ABF3">
       <img src="https://img.shields.io/badge/PyCharm-000000?style=badge&logo=pycharm&logoColor=white">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white">
-      <img src="https://img.shields.io/badge/Colab-F9AB00?style=badge&logo=google-colab&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white"> -->
+<!--       <img src="https://img.shields.io/badge/Colab-F9AB00?style=badge&logo=google-colab&logoColor=white"> -->
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=badge&logo=swagger&logoColor=black">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=badge&logo=postman&logoColor=white">
       <img src="https://img.shields.io/badge/Ngrok-1F1E37?style=badge&logo=ngrok&logoColor=white">
       <img src="https://img.shields.io/badge/Firebase-DD2C00?style=badge&logo=firebase&logoColor=white">
       <img src="https://img.shields.io/badge/OpenGL-5586A4?style=badge&logo=opengl&logoColor=white">
-      <img src="https://img.shields.io/badge/Markdown-000000?style=badge&logo=markdown&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/Markdown-000000?style=badge&logo=markdown&logoColor=white"> -->
       <img src="https://img.shields.io/badge/Notion-F3F3F3?style=badge&logo=notion&logoColor=black">
       <img src="https://img.shields.io/badge/Jira-0052CC?style=badge&logo=jira&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=badge&logo=figma&logoColor=white">
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=badge&logo=slack&logoColor=white">
-      <img src="https://img.shields.io/badge/Mattermost-0058CC?style=badge&logo=mattermost&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/Slack-4A154B?style=badge&logo=slack&logoColor=white"> -->
+<!--       <img src="https://img.shields.io/badge/Mattermost-0058CC?style=badge&logo=mattermost&logoColor=white"> -->
     </td>
   </tr>
 </table>
@@ -95,7 +86,7 @@
         실시간 Pong 게임 웹 페이지의 백엔드 시스템
       </td>
       <td width="220px">
-        <code>Django</code> <code>DRF</code> <code>Docker</code> <code>WebSocket</code>
+        <code>Django</code> <code>DRF</code> <code>PostgreSQL</code> <code>Docker</code> <code>WebSocket</code>
       </td>
     </tr>
   </tbody>
@@ -107,7 +98,7 @@
 
 * **Sogang University** (2020.03 ~ 2025.08)
 * **42 Seoul** (2022.11 ~ 2024.08)
-* **SSAFY (Samsung SW Academy For Youth)** (2025.07 ~ 2026.06)
+* **SSAFY (Samsung SW/AI Academy For Youth)** (2025.07 ~ 2026.06)
 
 <br>
 
